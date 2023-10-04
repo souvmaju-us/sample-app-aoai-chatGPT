@@ -1,7 +1,10 @@
 .layout {
+    padding: 90px;
     display: flex;
     flex-direction: column;
     height: 100%;
+    width: 50%;
+    padding-top: 70px;
 }
 
 .header {
@@ -32,9 +35,12 @@
 }
 
 .headerIcon {
-    height: 32px;
+    /* height: 32px;
     width: 32px;
-    margin-left: 36px;
+    margin-left: 36px; */
+    height: 72px;
+    width: 140px;
+    margin-left: 20px;
 }
 
 .shareButtonContainer {
